@@ -346,80 +346,195 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/93220
     url_poster: https://theposterdb.com/api/assets/216995/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/7TIT28YbhAOeQGD2q2hJ9j83jI1.jpg
-  Deadpool Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/448150
-    url_poster: https://theposterdb.com/api/assets/32318/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/k2VX0gFu2BEJhvduQTq2ioYp8z7.jpg
-  The Decalogue:
-    sort_title: Decalogue
-    tmdb_collection_details: https://www.themoviedb.org/collection/37452
-    url_poster: https://theposterdb.com/api/assets/262008/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/3VyQDugYLDfJSCBORb49ROPd5ca.jpgg
-  Despicable Me Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/86066
-    url_poster: https://theposterdb.com/api/assets/138807/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/37xamYKRUGCRux532lKcZdVGYuR.jpg
-  Die Hard Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/1570
-    url_poster: https://theposterdb.com/api/assets/719/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/m6NwnS3M4qfirxVurO0OMA1DwN3.jpg
-  Doctor Strange Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/618529
-    url_poster: https://theposterdb.com/api/assets/431968/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/7gHpxMRnrLvx3BGkmelB11pNrG6.jpg
-  Fantastic Beasts Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/435259
-    url_poster: https://theposterdb.com/api/assets/239909/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/7j7eBhReCRafAYdCr5XaJzNAIDz.jpg
-  Fantastic Four Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/9744
-    tmdb_movie: 166424
-    url_poster: https://theposterdb.com/api/assets/400127/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/jd89P82JIoi1pT65f7F0Za2ArAr.jpg
-  Final Destination Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/8864
-    url_poster: https://theposterdb.com/api/assets/68421/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/y3aWOInifbGKXM34KjtcMITrZRZ.jpg
-  Finding Nemo Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/137697
-    url_poster: https://theposterdb.com/api/assets/399276/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/bcWmv9xsKv6xXmdz5OP2wefHcdx.jpg
-  Ghost Rider Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/90306
-    url_poster: https://image.tmdb.org/t/p/original/bZBasloaMhjxCwH6tV0eziNMqut.jpg
-    url_background: https://image.tmdb.org/t/p/original/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg
-  Ghostbusters Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/2980
-    url_poster: https://theposterdb.com/api/assets/452003/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/guigdRPHN65fsgZHmvVvBOyiArf.jpg
-  Ginger Snaps Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/11794
-    url_poster: https://theposterdb.com/api/assets/166181/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/brFVJbOYk7phSNTQXwsn05rIklD.jpg
-  The Godfather Collection:
-    sort_title: Godfather Collection
-    tmdb_collection_details: https://www.themoviedb.org/collection/230
-    url_poster: https://theposterdb.com/api/assets/5960/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/3WZTxpgscsmoUk81TuECXdFOD0R.jpg
-  Godzilla (Reiwa) Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/1326214
-    url_poster: https://theposterdb.com/api/assets/16674/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/eN1HQozjStaRKQDO06GqgOuzKK8.jpg
-  Guardians of the Galaxy Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/284433
-    url_poster: https://theposterdb.com/api/assets/431969/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/sxyF4lVkEvOLVzr8jOF5K5nrMh3.jpg
-  The Hangover Trilogy:
-    sort_title: Hangover Trilogy
-    tmdb_collection_details: https://www.themoviedb.org/collection/86119
-    url_poster: https://theposterdb.com/api/assets/51805/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/tCgnWUqok0Md0E7QX68EpvGzljB.jpg
-  The Hannibal Lecter Collection:
-    sort_title: Hannibal Lecter Collection
-    tmdb_collection_details: https://www.themoviedb.org/collection/9743
-    url_poster: https://theposterdb.com/api/assets/21497/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/npCbvak9UhjPsZB9Oa2k2jsqI7E.jpg
-  Harry Potter Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/86336
+  Mission Impossible Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/87359
+    url_poster: https://theposterdb.com/api/assets/65202/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/jgxT4sP7uJUXSdjZsOPy27RmjPe.jpg
+  Monsters, Inc. Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/137696
+    url_poster: https://theposterdb.com/api/assets/399277/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/uzKkKhTWGSEdsN2rYanJTVAyTLi.jpg
+  The Naked Gun Trilogy:
+    sort_title: Naked Gun Trilogy
+    tmdb_collection_details: https://www.themoviedb.org/collection/37139
+    url_poster: https://theposterdb.com/api/assets/100010/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/patl2k4AK0S6wVo1DwOp4nmvNLm.jpg
+  National Lampoon's Vacation Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/108693
+    url_poster: https://theposterdb.com/api/assets/217439/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/pBmhj6KkEjlzc3e7jAPkIHgGIrE.jpg
+  Bad Neighbours Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/400700
+    url_poster: https://theposterdb.com/api/assets/75010/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/fJjsj870SBJdeusLUXJo6t6N8B4.jpg
+  Pitch Perfect Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/306031
+    url_poster: https://theposterdb.com/api/assets/51606/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/wHrrrxGosHAyPqRZyghyN8pz2dv.jpg
+  Planet of the Apes Legacy Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/1709
+    url_poster: https://image.tmdb.org/t/p/original/r7TBDEcpBAuFoqdtUz7z2nSeFej.jpg
+    url_background: https://image.tmdb.org/t/p/original/wBiFfCAuYzuSOl0sFnkQMB5BEZx.jpg
+  Planet of the Apes Reboot Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/173710
+    url_poster: https://theposterdb.com/api/assets/346989/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/lahj0Z6tmoAR0ElzqrPtF8Gx1fp.jpg
+  Predator Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/399
+    url_poster: https://theposterdb.com/api/assets/56801/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg
+  The Punisher Collection:
+    sort_title: Punisher Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/635362
+    tmdb_movie: 8867
+    url_poster: https://theposterdb.com/api/assets/191265/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/wy3mGT2BxqNiBb3JV6lAQwOLrM5.jpg
+  The Purge Collection:
+    sort_title: Purge Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/256322
+    url_poster: https://theposterdb.com/api/assets/8515/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg
+  A Quiet Place Collection:
+    sort_title: Quiet Place Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/521226
+    url_poster: https://theposterdb.com/api/assets/512498/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/r0uGgKhyYuQgPMe0SZQD7n8aj1g.jpg
+  The Railway Children Collection:
+    sort_title: Railway Children Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/987163
+    url_poster: https://theposterdb.com/api/assets/263204/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/3AADhdnGMABTMOOEb1as4Lt9Zfj.jpg
+  Rambo Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/5039
+    url_poster: https://theposterdb.com/api/assets/21241/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/ecvVwlK75evrAlsEE96V14KN6MN.jpg
+  Rebel Moon Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/934765
+    url_poster: https://theposterdb.com/api/assets/449365/view?performed_by=SSpandangler
+    url_background: https://pbs.twimg.com/media/FLLT9JZVEAIWKfh?format=jpg&name=4096x4096
+  Saw Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/656
+    url_poster: https://theposterdb.com/api/assets/8423/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/kKdI4h6VuCFAtHZc1POTWwY5r0I.jpg
+  Scooby-Doo Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/86860
+    url_poster: https://theposterdb.com/api/assets/66921/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/crBcWcmfSwM1FaFr7s3dOyzSF9m.jpg
+  Scream Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/2602
     url_poster: https://theposterdb.com/api/assets/101856/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/3JDhQymLyezzEPlHbHpCzDSIZdQ.jpg
+    url_background: https://image.tmdb.org/t/p/original/yWJXEuW19Bk97aqf37sOR4NH72n.jpg
+  Shazam! Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/724848
+    url_poster: https://theposterdb.com/api/assets/393255/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/sk2QNb1myzybxWMmeYB8BQ8pS7u.jpg
+  Shrek Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/2150
+    imdb_id: tt9334162
+    url_poster: https://theposterdb.com/api/assets/57044/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/lhsd1zCsq5UquvcNalmhuddV3tI.jpg
+  Sonic the Hedgehog Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/720879
+    url_poster: https://theposterdb.com/api/assets/253444/view?performed_by=SSpandangler
+    url_background: https://www.videogameschronicle.com/files/2022/05/ugly-sonic-1.jpg
+   The Space Odyssey Series:
+    sort_title: Space Odyssey Series
+    tmdb_collection_details: https://www.themoviedb.org/collection/4438
+    url_poster: https://theposterdb.com/api/assets/21635/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/cWsD1iyP5vaKQtzgoNefhbwWB23.jpg
+  Spider-Man Trilogy:
+    sort_title: Spider-Man AAA
+    tmdb_collection_details: https://www.themoviedb.org/collection/934765
+    url_poster: https://theposterdb.com/api/assets/15828/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/xTocoWSQrK9YSvHedsa5xSemykC.jpg
+  MCU Spider-Man Collection:
+    sort_title: Spider-Man MCU
+    tmdb_collection_details: https://www.themoviedb.org/collection/531241
+    url_poster: https://theposterdb.com/api/assets/470591/view?performed_by=SSpandangler
+    url_background: https://c4.wallpaperflare.com/wallpaper/352/604/20/mcu-spider-man-wallpaper-preview.jpg
+  Spider-Man Spider-Verse Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/573436
+    url_poster: https://theposterdb.com/api/assets/246957/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/oC5S5pdfzPiQC4us05uDMT7v5Ng.jpg
+  SpongeBob Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/275402
+    url_poster: https://theposterdb.com/api/assets/217896/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/uDbMvHRX0LMUxmsMyOOrPeLYHO5.jpg
+   Star Trek Alternate Reality Collection:
+    sort_title: Star Trek Z
+    tmdb_collection_details: https://www.themoviedb.org/collection/115575
+    url_poster: https://theposterdb.com/api/assets/146213/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/ruBgdO9RFTx4zjXbX2e26wnrZZi.jpg
+  Star Trek The Original Series Collection:
+    sort_title: Star Trek
+    tmdb_collection_details: https://www.themoviedb.org/collection/151
+    url_poster: https://theposterdb.com/api/assets/146208/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/4hIqmybFaZV7KxylnL6ISxGdbZJ.jpg
+  Star Trek The Next Generation Collection:
+    sort_title: Star Trek N
+    tmdb_collection_details: https://www.themoviedb.org/collection/115570
+    url_poster: https://theposterdb.com/api/assets/146211/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/y6IWUJkDWbPiLOuc23jbLotRPIu.jpg
+  Star Wars The Skywalker Saga:
+    tmdb_collection_details: https://www.themoviedb.org/collection/10
+    url_poster: https://theposterdb.com/api/assets/84374/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/jci0IkGpJRwpTx62jDxIFXAt2Sr.jpg
+  Starship Troopers Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/10522
+    url_poster: https://theposterdb.com/api/assets/5525/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/eOIVryUcDcOhEunn2seuZZmiNrm.jpg
+  Suicide Squad Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/531242
+    url_poster: https://theposterdb.com/api/assets/249674/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/jxWpUDJoXQII0fvaTLqn0bw1C7p.jpg
+  The Terminator Collection:
+    sort_title: Terminator Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/528
+    url_poster: https://theposterdb.com/api/assets/151291/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/aWbdNl1vh5XaRtDAdihuCNiPTHL.jpg
+  Thor Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/131296
+    url_poster: https://theposterdb.com/api/assets/431974/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/7W7itKUEevRu0KRk92z4tSFWstF.jpg
+   Three Colours Trilogy:
+    tmdb_collection_details: https://www.themoviedb.org/collection/131
+    url_poster: https://theposterdb.com/api/assets/77280/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/2WRTI3eKcwiU1n6mH6X5uYueJ3X.jpg
+  Toy Story Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/10194
+    url_poster: https://theposterdb.com/api/assets/399279/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/6iSjxHZCcEnp1VMZkpgCulpIGOu.jpg
+  TRON Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/63043
+    url_poster: https://theposterdb.com/api/assets/81417/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/pTfbxo10D7iqfHgXtH5Vsh9sPIK.jpg
+  The Twilight Saga:
+    sort_title: Twilight
+    tmdb_collection_details: https://www.themoviedb.org/collection/33514
+    url_poster: https://theposterdb.com/api/assets/70115/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/yDq6O2JCbM6sCVn66FzOx1Eqqzx.jpg
+  Twister Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/1062948
+    url_poster: https://theposterdb.com/api/assets/517051/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg
+   Venom Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/558216
+    url_poster: https://theposterdb.com/api/assets/193721/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/vq340s8DxA5Q209FT8PHA6CXYOx.jpg
+  The Water of the Hills Collection:
+    sort_title: Water of the Hills
+    tmdb_collection_details: https://www.themoviedb.org/collection/39460
+    url_poster: https://image.tmdb.org/t/p/original/sRnAmubUadnXlmYyOZgG80gAY6m.jpg
+    url_background: https://image.tmdb.org/t/p/original/chj0ns1pgZng2lJ18ZiDnH59r4Q.jpg
+  Wonder Woman Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/468552
+    url_poster: https://theposterdb.com/api/assets/250226/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/wdxWpq6lzgWxH8N8YgqQmLPvgn5.jpg
+  X Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/950289
+    url_poster: https://theposterdb.com/api/assets/513652/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/4bfS6hufuFhTCyav3k1tEJMTPX2.jpg
+  X-Men Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/748
+    url_poster: https://image.tmdb.org/t/p/original/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg
+    url_background: https://image.tmdb.org/t/p/original/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg
