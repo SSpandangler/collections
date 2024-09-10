@@ -227,7 +227,6 @@ collections:
     sort_title: Hangover Trilogy
     tmdb_collection: https://www.themoviedb.org/collection/86119
     url_poster: https://theposterdb.com/api/assets/51805/view?performed_by=SSpandangler
-    url_background: https://image.tmdb.org/t/p/original/tCgnWUqok0Md0E7QX68EpvGzljB.jpg
   The Hannibal Lecter Collection:
     sort_title: Hannibal Lecter Collection
     tmdb_collection: https://www.themoviedb.org/collection/9743
