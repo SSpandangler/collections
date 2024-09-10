@@ -437,7 +437,7 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/720879
     url_poster: https://theposterdb.com/api/assets/253444/view?performed_by=SSpandangler
     url_background: https://www.videogameschronicle.com/files/2022/05/ugly-sonic-1.jpg
-   The Space Odyssey Series:
+  The Space Odyssey Series:
     sort_title: Space Odyssey Series
     tmdb_collection_details: https://www.themoviedb.org/collection/4438
     url_poster: https://theposterdb.com/api/assets/21635/view?performed_by=SSpandangler
@@ -460,7 +460,7 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/275402
     url_poster: https://theposterdb.com/api/assets/217896/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/uDbMvHRX0LMUxmsMyOOrPeLYHO5.jpg
-   Star Trek Alternate Reality Collection:
+  Star Trek Alternate Reality Collection:
     sort_title: Star Trek Z
     tmdb_collection_details: https://www.themoviedb.org/collection/115575
     url_poster: https://theposterdb.com/api/assets/146213/view?performed_by=SSpandangler
@@ -496,7 +496,7 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/131296
     url_poster: https://theposterdb.com/api/assets/431974/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/7W7itKUEevRu0KRk92z4tSFWstF.jpg
-   Three Colours Trilogy:
+  Three Colours Trilogy:
     tmdb_collection_details: https://www.themoviedb.org/collection/131
     url_poster: https://theposterdb.com/api/assets/77280/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/2WRTI3eKcwiU1n6mH6X5uYueJ3X.jpg
@@ -517,7 +517,7 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/1062948
     url_poster: https://theposterdb.com/api/assets/517051/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg
-   Venom Collection:
+  Venom Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/558216
     url_poster: https://theposterdb.com/api/assets/193721/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/vq340s8DxA5Q209FT8PHA6CXYOx.jpg
