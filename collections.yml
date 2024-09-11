@@ -55,6 +55,8 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/oLT5tHDNzb5LfytO2g7q6dF0QkC.jpg
   Alien Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/8091
+    tmdb_movie: 70981
+    tmdb_movie: 126889
     url_poster: https://image.tmdb.org/t/p/original/wkSoBF23sF4sj3Xwgk3UIPHsC5x.jpg
     url_background: https://image.tmdb.org/t/p/original/6X42JnSMdo3dPAswOHUuvebdTq7.jpg
   The Amazing Spider-Man Collection:
