@@ -127,7 +127,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/6X42JnSMdo3dPAswOHUuvebdTq7.jpg
   Camp Rock Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/148055
-    url_poster: https://github.com/SSpandangler/season/blob/7d0473faef874a9ef7f2f87ec239be71a1b23b72/Camp%20Rock%20Collection.png
+    url_poster: https://raw.githubusercontent.com/SSpandangler/season/7d0473faef874a9ef7f2f87ec239be71a1b23b72/Camp%20Rock%20Collection.png
     url_background: https://image.tmdb.org/t/p/original/itL2G9nPEaB6VD7ShsMSVqM1bSO.jpg
   Captain America Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/131295
@@ -143,11 +143,12 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/A8DqaTGwZ8iCEjWMNRsZumzfKLw.jpg
   Charlie's Angels Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/86029
-    tmdb_movie: 458897
+    imdb_id: tt5033998
     url_poster: https://theposterdb.com/api/assets/15409/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/iEsbrEAfuZTXKYGQsIVeELZyGlE.jpg
   Crank Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/64751
+    imdb_id: tt1289401
     url_poster: https://theposterdb.com/api/assets/206817/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/cziWkSXQG3Vul0l3Mu2sOXLS1dC.jpg
   Cube Collection:
@@ -234,7 +235,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/21497/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/npCbvak9UhjPsZB9Oa2k2jsqI7E.jpg
   Harry Potter Collection:
-    tmdb_collection_details: https://www.themoviedb.org/collection/86336
+    tmdb_collection_details: https://www.themoviedb.org/collection/1241
     url_poster: https://theposterdb.com/api/assets/101856/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/3JDhQymLyezzEPlHbHpCzDSIZdQ.jpg
   Hercule Poirot (Kenneth Branagh) Collection:
@@ -396,6 +397,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg
   A Quiet Place Collection:
     sort_title: Quiet Place Collection
+    imdb_id: tt13433802
     tmdb_collection_details: https://www.themoviedb.org/collection/521226
     url_poster: https://theposterdb.com/api/assets/512498/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/r0uGgKhyYuQgPMe0SZQD7n8aj1g.jpg
@@ -416,13 +418,13 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/656
     url_poster: https://theposterdb.com/api/assets/8423/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/kKdI4h6VuCFAtHZc1POTWwY5r0I.jpg
-  Scooby-Doo Collection:
+  Scooby-Doo! Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/86860
-    url_poster: https://theposterdb.com/api/assets/66921/view?performed_by=SSpandangler
+    url_poster: https://theposterdb.com/api/assets/161538/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/crBcWcmfSwM1FaFr7s3dOyzSF9m.jpg
   Scream Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/2602
-    url_poster: https://theposterdb.com/api/assets/101856/view?performed_by=SSpandangler
+    url_poster: https://theposterdb.com/api/assets/10559/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/yWJXEuW19Bk97aqf37sOR4NH72n.jpg
   Shazam! Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/724848
@@ -444,7 +446,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/cWsD1iyP5vaKQtzgoNefhbwWB23.jpg
   Spider-Man Trilogy:
     sort_title: Spider-Man AAA
-    tmdb_collection_details: https://www.themoviedb.org/collection/934765
+    tmdb_collection_details: https://www.themoviedb.org/collection/556
     url_poster: https://theposterdb.com/api/assets/15828/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/xTocoWSQrK9YSvHedsa5xSemykC.jpg
   MCU Spider-Man Collection:
@@ -536,5 +538,16 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/4bfS6hufuFhTCyav3k1tEJMTPX2.jpg
   X-Men Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/748
-    url_poster: https://image.tmdb.org/t/p/original/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg
-    url_background: https://image.tmdb.org/t/p/original/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg
+    imdb_id: tt4682266
+    url_poster: https://theposterdb.com/api/assets/146736/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg
+  Minions Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/544669
+    url_poster: https://theposterdb.com/api/assets/400145/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg
+  Scooby-Doo! Animated Collection:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/scooby-doo-animated-collection/
+    sync_mode: sync
+    imdb_id: tt5896802
+    url_poster: https://theposterdb.com/api/assets/161484/view?performed_by=SSpandangler
+    url_background: https://variety.com/wp-content/uploads/2021/05/TSDSCDO_EC007-e1621961100429.jpg?w=1000&h=563&crop=1
