@@ -556,6 +556,10 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/1575
     url_poster: https://theposterdb.com/api/assets/92602/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/561juuqUqgVeeOa0Q4MU0AeqM93.jpg
+  Despicable Me Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/86066
+    url_poster: https://theposterdb.com/api/assets/138807/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/37xamYKRUGCRux532lKcZdVGYuR.jpg
   Creed Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/553717
     url_poster: https://theposterdb.com/api/assets/315805/view?performed_by=SSpandangler
