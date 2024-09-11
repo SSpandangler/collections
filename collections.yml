@@ -560,3 +560,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/553717
     url_poster: https://theposterdb.com/api/assets/315805/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/EK6fNBxnyn9gHky2UskATHkKdG.jpg
+The Wolverine Collection:
+    sort_title: Wolverine
+    tmdb_collection_details: https://www.themoviedb.org/collection/453993
+    url_poster: https://theposterdb.com/api/assets/37545/view?performed_by=SSpandangler
+    url_background: https://media.themoviedb.org/t/p/w1000_and_h563_face/QtSxEuCwcZSfCTMZfER3nHDVsG.jpg    
