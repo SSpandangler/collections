@@ -143,12 +143,11 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/A8DqaTGwZ8iCEjWMNRsZumzfKLw.jpg
   Charlie's Angels Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/86029
-    imdb_id: tt5033998
+    tmdb_movie: 458897
     url_poster: https://theposterdb.com/api/assets/15409/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/iEsbrEAfuZTXKYGQsIVeELZyGlE.jpg
   Crank Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/64751
-    imdb_id: tt1289401
     url_poster: https://theposterdb.com/api/assets/206817/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/cziWkSXQG3Vul0l3Mu2sOXLS1dC.jpg
   Cube Collection:
@@ -205,6 +204,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg
   Ghostbusters Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/2980
+    tmdb_movie: 43074
     url_poster: https://theposterdb.com/api/assets/452003/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/guigdRPHN65fsgZHmvVvBOyiArf.jpg
   Ginger Snaps Collection:
