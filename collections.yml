@@ -553,3 +553,12 @@ collections:
     imdb_id: tt5896802
     url_poster: https://theposterdb.com/api/assets/161484/view?performed_by=SSpandangler
     url_background: https://variety.com/wp-content/uploads/2021/05/TSDSCDO_EC007-e1621961100429.jpg?w=1000&h=563&crop=1
+  Rocky Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/1575
+    url_poster: https://theposterdb.com/api/assets/66551/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/561juuqUqgVeeOa0Q4MU0AeqM93.jpg
+  Creed Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/553717
+    url_poster: https://theposterdb.com/api/assets/66281/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/EK6fNBxnyn9gHky2UskATHkKdG.jpg
+    
