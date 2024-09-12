@@ -19,11 +19,10 @@ collections:
     visible_home: false
     visible_shared: false
     smart_label: release.asc
-    url_background: https://github.com/SSpandangler/season/blob/main/Ghibli.png?raw=true
+    url_background: https://raw.githubusercontent.com/SSpandangler/season/main/Ghibli.jpg
   Letterboxd Top 250 Narrative Feature Films:
     letterboxd_list_details: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
     sort_title: "!020_Letterboxd Top 250"
-    collection_order: custom
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
@@ -33,7 +32,7 @@ collections:
     sync_mode: sync
     sort_title: "!020_IMDb Top 250"
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/IMDB%20250.png
-    url_background: https://github.com/SSpandangler/test/blob/main/IMDBTop250.jpg?raw=true
+    url_background: https://raw.githubusercontent.com/SSpandangler/season/main/IMDBTop250.jpg
     smart_label: rating.desc
   Alien / Predator:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/alien-predator/
