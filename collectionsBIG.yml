@@ -111,3 +111,10 @@ collections:
     url_poster: https://theposterdb.com/api/assets/46008/view?performed_by=SSpandangler
     url_background: https://preview.redd.it/cxeimwflyo881.png?width=800&format=png&auto=webp&s=2160be26be2b962a1b9048c2e6236bbfe643c71c
     smart_label: release.asc
+  X-Men Universe:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/x-men-universe/
+    sync_mode: sync
+    sort_title: "!040_X-Men Universe"
+    url_poster: https://theposterdb.com/api/assets/470627/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/f0xXgAYYYLabgXrj3PPCBUhUNVB.jpg
+    smart_label: release.asc
