@@ -22,14 +22,47 @@ collections:
     url_background: https://github.com/SSpandangler/season/blob/main/Ghibli.png?raw=true
   Letterboxd Top 250 Narrative Feature Films:
     letterboxd_list_details: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
-    sort_title: "!020_Top 250"
+    sort_title: "!020_Letterboxd Top 250"
+    collection_order: custom
     sync_mode: sync
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    smart_label: random
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
+    smart_label: rating.desc
+  IMDb Top 250:
+    imdb_chart: top_movies
+    sync_mode: sync
+    sort_title: "!020_IMDb Top 250"
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/IMDB%20250.png
+    url_background: https://github.com/SSpandangler/test/blob/main/IMDBTop250.jpg?raw=true
+    smart_label: rating.desc
+  Alien / Predator:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/alien-predator/
+    sync_mode: sync
+    sort_title: "!040_Alien / Predator"
+    url_poster: https://github.com/SSpandangler/season/blob/main/AlienPredator.png?raw=true
+    url_background: https://github.com/SSpandangler/season/blob/main/APBG.jpg?raw=true
+    smart_label: release.asc
+  DC Extended Universe:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/dc-extended-universe/
+    sync_mode: sync
+    sort_title: "!040_DC Extended Universe"
+    url_poster: https://theposterdb.com/api/assets/130923/view?performed_by=SSpandangler
+    url_background: https://cdn.mos.cms.futurecdn.net/qLibkmSVAX43J3uDLMkYdT-1200-80.jpeg
+    smart_label: release.asc
+  Fast & Furious:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/fast-furious/
+    sync_mode: sync
+    sort_title: "!040_Fast & Furious"
+    url_poster: https://theposterdb.com/api/assets/204643/view?performed_by=SSpandangler
+    url_background: https://images.theposterdb.com/prod/public/images/meta/collections/optimized/3339/banner.webp
+    smart_label: release.asc
+  Fast & Furious:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/in-association-with-marvel/
+    sync_mode: sync
+    sort_title: "!040_In Association With Marvel"
+    url_poster: https://theposterdb.com/api/assets/189156/view?performed_by=SSpandangler
+    url_background: https://media.licdn.com/dms/image/sync/v2/D5627AQEQ8oYk-Qrizw/articleshare-shrink_800/articleshare-shrink_800/0/1714892722624?e=2147483647&v=beta&t=PhUp3Oyo-BasJ_FflHvb2DmFG_a7u7FmUIToDXBkdRU
+    smart_label: release.asc
   28 Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/1565
     url_poster: https://image.tmdb.org/t/p/original/9bYtn3lii2pwHbh2zTEcdxDJRVB.jpg
