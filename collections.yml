@@ -22,7 +22,6 @@ collections:
     url_background: https://github.com/SSpandangler/season/blob/main/Ghibli.png?raw=true
   Letterboxd Top 250 Narrative Feature Films:
     letterboxd_list_details: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
-    collection_order: custom
     sort_title: "!020_Top 250"
     sync_mode: sync
     visible_library: false
