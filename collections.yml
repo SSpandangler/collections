@@ -56,7 +56,7 @@ collections:
     url_poster: https://theposterdb.com/api/assets/204643/view?performed_by=SSpandangler
     url_background: https://images.theposterdb.com/prod/public/images/meta/collections/optimized/3339/banner.webp
     smart_label: release.asc
-  Fast & Furious:
+  In Association With Marvel:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/in-association-with-marvel/
     sync_mode: sync
     sort_title: "!040_In Association With Marvel"
