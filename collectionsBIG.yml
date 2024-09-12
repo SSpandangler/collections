@@ -26,14 +26,14 @@ collections:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
-    smart_label: rating.desc
+    smart_label: critic_rating.desc
   IMDb Top 250:
     imdb_chart: top_movies
     sync_mode: sync
     sort_title: "!020_IMDb Top 250"
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/IMDB%20250.png
     url_background: https://raw.githubusercontent.com/SSpandangler/season/main/IMDBTop250.jpg
-    smart_label: rating.desc
+    smart_label: audience_rating.desc
   Alien / Predator:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/alien-predator/
     sync_mode: sync
@@ -61,4 +61,53 @@ collections:
     sort_title: "!040_In Association With Marvel"
     url_poster: https://theposterdb.com/api/assets/189156/view?performed_by=SSpandangler
     url_background: https://media.licdn.com/dms/image/sync/v2/D5627AQEQ8oYk-Qrizw/articleshare-shrink_800/articleshare-shrink_800/0/1714892722624?e=2147483647&v=beta&t=PhUp3Oyo-BasJ_FflHvb2DmFG_a7u7FmUIToDXBkdRU
+    smart_label: release.asc
+  Marvel Cinematic Universe:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/marvel-cinematic-universe/
+    sync_mode: sync
+    sort_title: "!040_Marvel Cinematic Universe"
+    url_poster: https://theposterdb.com/api/assets/142510/view?performed_by=SSpandangler
+    url_background: https://c4.wallpaperflare.com/wallpaper/168/42/549/marvel-cinematic-universe-avengers-endgame-hd-wallpaper-preview.jpg
+    smart_label: release.asc
+  Middle Earth:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/middle-earth/
+    sync_mode: sync
+    sort_title: "!040_Middle Earth"
+    url_poster: https://theposterdb.com/api/assets/100790/view?performed_by=SSpandangler
+    url_background: https://images.theposterdb.com/prod/public/images/meta/collections/optimized/8607/banner.webp
+    smart_label: release.asc
+  Rocky X Creed:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/rocky-x-creed/
+    sync_mode: sync
+    sort_title: "!040_Rocky X Creed"
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/RockyCreed.png
+    url_background: https://www.latfusa.com/media/uploads/2015/11/24/gallery_01.jpg
+    smart_label: release.asc
+  Star Trek Universe:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/star-trek-universe/
+    sync_mode: sync
+    sort_title: "!040_Star Trek Universe"
+    url_poster: https://theposterdb.com/api/assets/158085/view?performed_by=SSpandangler
+    url_background: https://wallpapercat.com/w/full/a/f/0/12245-3840x2160-desktop-4k-star-trek-wallpaper-photo.jpg
+    smart_label: release.asc
+  Star Wars Universe:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/star-wars-universe/
+    sync_mode: sync
+    sort_title: "!040_Star Wars Universe"
+    url_poster: https://theposterdb.com/api/assets/437/view?performed_by=SSpandangler
+    url_background: https://wallpapercat.com/w/full/4/e/a/33262-3376x1899-desktop-hd-star-wars-background.jpg
+    smart_label: release.asc
+  View Askewniverse:
+    letterboxd_list_details: https://letterboxd.com/thefilmfact/list/view-askewniverse/
+    sync_mode: sync
+    sort_title: "!040_View Askewniverse"
+    url_poster: https://theposterdb.com/api/assets/84114/view?performed_by=SSpandangler
+    url_background: https://breakinggeek.com/wp-content/uploads/2015/03/jay-and-silent-bob-1920x1080-hd-wallpaper.png
+    smart_label: release.asc
+  Wizarding World:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/wizarding-world/
+    sync_mode: sync
+    sort_title: "!040_Wizarding World"
+    url_poster: https://theposterdb.com/api/assets/46008/view?performed_by=SSpandangler
+    url_background: https://preview.redd.it/cxeimwflyo881.png?width=800&format=png&auto=webp&s=2160be26be2b962a1b9048c2e6236bbfe643c71c
     smart_label: release.asc
