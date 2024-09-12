@@ -1,35 +1,25 @@
 ---
 collections:
-  2024 Oscar Winners:
-    letterboxd_list: https://letterboxd.com/sspandangler/list/2024-oscar-winners/
-    collection_order: release.desc
-    sync_mode: sync
-    url_poster: https://raw.githubusercontent.com/SSpandangler/oscar/main/Oscar%20Win2.jpeg
-    sort_title: "!0_2024 Oscar Winners"
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    url_background: https://raw.githubusercontent.com/SSpandangler/oscar/main/Oscar_Winner.png
   Pixar Collection:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/pixar-collection/
-    collection_order: custom
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/60685/view
     sort_title: "!040_Pixar Collection"
     visible_library: false
     visible_home: false
     visible_shared: false
+    smart_label: release.asc
     url_background: https://lumiere-a.akamaihd.net/v1/images/sa_pixar_virtualbg_toystory_16x9_8461039f.jpeg
   Studio Ghibli Collection:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/studio-ghibli-collection/
-    collection_order: release.desc
     sync_mode: sync
     url_poster: https://theposterdb.com/api/assets/51610/view?performed_by=SSpandangler
     sort_title: "!040_Studio Ghibli Collection"
     visible_library: false
     visible_home: false
     visible_shared: false
-    url_background: https://i.redd.it/570ao61wfhx81.png
+    smart_label: release.asc
+    url_background: https://github.com/SSpandangler/season/blob/main/Ghibli.png?raw=true
   Letterboxd Top 250 Narrative Feature Films:
     letterboxd_list_details: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
     collection_order: custom
@@ -38,17 +28,9 @@ collections:
     visible_library: false
     visible_home: false
     visible_shared: false
+    smart_label: random
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
-  Girls Kissing:
-    collection_order: release.desc
-    sort_title: Girls Kissing
-    visible_library: false
-    visible_home: false
-    visible_shared: false
-    imdb_list: https://www.imdb.com/list/ls528572890/
-    url_poster: https://raw.githubusercontent.com/SSpandangler/oscar/main/Untitled(2).png
-    url_background: https://media.istockphoto.com/id/1485060070/video/embrace-and-holding-each-other-love-and-kiss-pride-event-friendship-concept.jpg?s=640x640&k=20&c=amKkJLe2hz3VQAA065HHZmQU-Ot5nNAQENHk7HmWXF8=
   28 Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/1565
     url_poster: https://image.tmdb.org/t/p/original/9bYtn3lii2pwHbh2zTEcdxDJRVB.jpg
@@ -564,4 +546,4 @@ collections:
     sort_title: Wolverine
     tmdb_collection_details: https://www.themoviedb.org/collection/453993
     url_poster: https://theposterdb.com/api/assets/37545/view?performed_by=SSpandangler
-    url_background: https://media.themoviedb.org/t/p/w1000_and_h563_face/QtSxEuCwcZSfCTMZfER3nHDVsG.jpg    
+    url_background: https://media.themoviedb.org/t/p/w1000_and_h563_face/QtSxEuCwcZSfCTMZfER3nHDVsG.jpg
