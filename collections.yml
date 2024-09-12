@@ -529,3 +529,8 @@ collections:
     imdb_id: tt2283336
     url_poster: https://theposterdb.com/api/assets/103970/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/mJ2PbY8kHKCLdNPjv8zTQgilHPA.jpg
+  The Fast and the Furious Collection:
+    sort_title: Fast and the Furious
+    tmdb_collection_details: https://www.themoviedb.org/collection/9485
+    url_poster: https://theposterdb.com/api/assets/356138/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/mZIFtg3qa1V3mufSrOhDDicNEB8.jpg
