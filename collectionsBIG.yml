@@ -26,20 +26,14 @@ collections:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
-    collection_order: custom
-    smart_label:
-      all:
-        label: <<smart_label>>  
+    smart_label: custon.asc
   IMDb Top 250:
     imdb_chart: top_movies
     sync_mode: sync
     sort_title: "!020_IMDb Top 250"
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/IMDB%20250.png
     url_background: https://raw.githubusercontent.com/SSpandangler/season/main/IMDBTop250.jpg
-    collection_order: custom
-    smart_label:
-      all:
-        label: <<smart_label>>
+    smart_label: custom.asc
   Alien / Predator:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/alien-predator/
     sync_mode: sync
