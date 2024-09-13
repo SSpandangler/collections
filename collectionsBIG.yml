@@ -111,3 +111,38 @@ collections:
     url_poster: https://theposterdb.com/api/assets/470627/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/f0xXgAYYYLabgXrj3PPCBUhUNVB.jpg
     smart_label: release.asc
+  Festival de Cannes Palme d’Or Winners:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
+    sync_mode: sync
+    sort_title: "!!130_Festival de Cannes Palme d’Or"
+    url_poster: https://github.com/SSpandangler/test/blob/main/Cannes%20Poster.png?raw=true
+    url_background: https://github.com/SSpandangler/test/blob/main/Cannes%20Background.png?raw=true
+    smart_label: release.desc
+  Oscars Best Picture Winners:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/oscars-best-picture-winners/
+    sync_mode: sync
+    sort_title: "!!130_Oscars Best Picture"
+    url_poster: https://github.com/SSpandangler/test/blob/main/Oscar%20poster.jpg?raw=true
+    url_background: https://github.com/SSpandangler/test/blob/main/Oscar%20Background.jpg?raw=true
+    smart_label: release.desc
+  Golden Globes Best Picture Winners:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/golden-globes-best-picture-winners/
+    sync_mode: sync
+    sort_title: "!!130_Golden Globes Best Picture"
+    url_poster: https://github.com/SSpandangler/test/blob/main/Golden%20poster.png?raw=true
+    url_background: https://goldenglobes.com/wp-content/themes/pmc-golden-globes/dist/fdedf645468628839092.jpg
+    smart_label: release.desc
+  Golden Raspberry Worst Picture “Winners”:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
+    sync_mode: sync
+    sort_title: "!!130_Golden Raspberry Worst Picture"
+    url_poster: https://github.com/SSpandangler/test/blob/main/Razzie%20poster.png?raw=true
+    url_background: https://github.com/SSpandangler/test/blob/main/Razzie%20Background.png?raw=true
+    smart_label: release.desc
+  Sundance Grand Jury Winners:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/sundance-grand-jury-winners/
+    sync_mode: sync
+    sort_title: "!!130_Sundance Grand Jury"
+    url_poster: https://github.com/SSpandangler/test/blob/main/Sundance%20Poster.png?raw=true
+    url_background: https://github.com/SSpandangler/test/blob/main/sundance%20Background.jpg?raw=true
+    smart_label: release.desc
