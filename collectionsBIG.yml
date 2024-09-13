@@ -22,18 +22,25 @@ collections:
     url_background: https://raw.githubusercontent.com/SSpandangler/season/main/Ghibli.jpg
   Letterboxd Top 250 Narrative Feature Films:
     letterboxd_list_details: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
+      limit: 500
     sort_title: "!020_Letterboxd Top 250"
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
-    smart_label: custon.asc
+    smart_label:
+      sort_by: custom.asc
+      all:
+        label: <<smart_label>>
   IMDb Top 250:
     imdb_chart: top_movies
     sync_mode: sync
     sort_title: "!020_IMDb Top 250"
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/IMDB%20250.png
     url_background: https://raw.githubusercontent.com/SSpandangler/season/main/IMDBTop250.jpg
-    smart_label: custom.asc
+    smart_label:
+      sort_by: custom.asc
+      all:
+        label: <<smart_label>>
   Alien / Predator:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/alien-predator/
     sync_mode: sync
