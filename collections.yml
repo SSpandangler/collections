@@ -539,3 +539,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/504490
     url_poster: https://media.themoviedb.org/t/p/w440_and_h660_face/9gBR1UwKM9fSftn4VA0eMnhIHzd.jpg
     url_background: https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13765923/28891id_008.jpg?quality=90&strip=all&crop=14.925548589342,0,63.557993730408,100
+  The Human Condition:
+    sort_title: Human Condition
+    tmdb_collection_details: https://www.themoviedb.org/collection/85473
+    url_poster: https://theposterdb.com/api/assets/295911/view?performed_by=SSpandangler
+    url_background: https://media.themoviedb.org/t/p/w1000_and_h563_face/2ZLIahfcDN8HtFptOUmbcFg4pEm.jpg
