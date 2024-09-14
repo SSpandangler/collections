@@ -146,3 +146,12 @@ collections:
     url_poster: https://github.com/SSpandangler/test/blob/main/Sundance%20Poster.png?raw=true
     url_background: https://github.com/SSpandangler/test/blob/main/sundance%20Background.jpg?raw=true
     smart_label: release.desc
+  JerryFlix Top Movies:
+    sync_mode: sync
+    smart_label: plays.desc
+    sort_title: "!00_JerryFlix Top"
+    tautulli_watched:
+      list_days: 7
+      list_size: 10
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
+    summary: A painstakingly and agonizingly handpicked selection of the most popular Movies in the past week on JerryFlix.
