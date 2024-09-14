@@ -18,7 +18,7 @@ collections:
   JerryFlix Top TV:
     sync_mode: sync
     smart_label: plays.desc
-    sort_title: "!010_JerryFlix Top"
+    sort_title: "!00_JerryFlix Top"
     tautulli_watched:
       list_days: 7
       list_size: 10
