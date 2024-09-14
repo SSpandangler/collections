@@ -1,9 +1,26 @@
 ---
 collections:
- Emmy Winners:
-        imdb_list: 
-          list_id: ls542543458
-          limit: 200
-          smart_label: release.desc
-          url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/emmy%20poster.jpg
-          url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.jpg
+  Emmy Winners:
+    sort_title: "!130_Emmys"
+    imdb_list:
+      list_id: ls542543458
+      limit: 200
+      smart_label: release.desc
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/emmy%20poster.jpg
+    url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.jpg
+  IMDb Top 250:
+    imdb_chart: top_shows
+    sync_mode: sync
+    sort_title: "!020_IMDb Top 250"
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/IMDB%20250.png
+    url_background: https://raw.githubusercontent.com/SSpandangler/season/main/IMDBTop250.jpg
+    smart_label: audience_rating.desc
+  JerryFlix Top TV:
+    sync_mode: sync
+    smart_label: plays.desc
+    sort_title: "!010_JerryFlix Top"
+    tautulli_watched:
+      list_days: 7
+      list_size: 10
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
+    summary: A painstakingly and agonizingly handpicked selection of the most popular TV shows in the past week on JerryFlix.
