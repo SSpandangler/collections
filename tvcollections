@@ -1,0 +1,7 @@
+    Emmy Winners:
+        imdb_list: 
+          list_id: ls542543458
+          limit: 200
+          smart_label: release.desc
+          url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/emmy%20poster.jpg
+          url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.jpg
