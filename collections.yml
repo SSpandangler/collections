@@ -531,6 +531,11 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/mJ2PbY8kHKCLdNPjv8zTQgilHPA.jpg
   The Fast and the Furious Collection:
     sort_title: Fast and the Furious
+    imdb_id: tt6806448
     tmdb_collection_details: https://www.themoviedb.org/collection/9485
     url_poster: https://theposterdb.com/api/assets/356138/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/mZIFtg3qa1V3mufSrOhDDicNEB8.jpg
+  War and Peace Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/504490
+    url_poster: https://media.themoviedb.org/t/p/w440_and_h660_face/9gBR1UwKM9fSftn4VA0eMnhIHzd.jpg
+    url_background: https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13765923/28891id_008.jpg?quality=90&strip=all&crop=14.925548589342,0,63.557993730408,100
