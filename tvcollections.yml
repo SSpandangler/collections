@@ -5,9 +5,9 @@ collections:
     imdb_list:
       list_id: ls542543458
       limit: 200
-      smart_label: release.desc
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/Emmys.jpg
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.png
+    smart_label: release.desc
   IMDb Top 250:
     imdb_chart: top_shows
     sync_mode: sync
