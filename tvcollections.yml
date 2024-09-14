@@ -6,8 +6,8 @@ collections:
       list_id: ls542543458
       limit: 200
       smart_label: release.desc
-    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/emmy%20poster.jpg
-    url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.jpg
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/Emmys.jpg
+    url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.png
   IMDb Top 250:
     imdb_chart: top_shows
     sync_mode: sync
@@ -23,4 +23,5 @@ collections:
       list_days: 7
       list_size: 10
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
+    url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular TV shows in the past week on JerryFlix.
