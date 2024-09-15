@@ -26,7 +26,7 @@ collections:
     sync_mode: sync
     url_poster: https://raw.githubusercontent.com/SSpandangler/season/main/letterboxd.png
     url_background: https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/a43514170624481.6461a758757f1.png
-    smart_label: audience_rating.desc
+    smart_label: critic_rating.desc
   IMDb Top 250:
     imdb_chart: top_movies
     sync_mode: sync
