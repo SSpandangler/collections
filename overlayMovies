@@ -1,0 +1,28 @@
+overlays:
+  IMDB-Top-250:
+    imdb_chart: top_movies
+    overlay:
+      name: IMDB-Top-250
+      default: ribbon/yellow/imdb.png
+overlays:
+  4K:
+    overlay:
+      name: IMDb Top 250
+      url: 
+    plex_search:
+      all:
+        resolution: 4K
+  HDR:
+    overlay:
+      name: HDR
+      default: HDR
+    plex_search:
+      all:
+        hdr: true
+  Dolby:
+    overlay:
+      name: Dolby
+      url: https://somewebsite.com/dolby_overlay.png
+    plex_all: true
+    filters:
+      has_dolby_vision: true
