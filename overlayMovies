@@ -19,10 +19,10 @@ overlays:
     plex_search:
       all:
         hdr: true
-  Dolby:
+  Letterboxd:
     overlay:
-      name: Dolby
-      url: https://somewebsite.com/dolby_overlay.png
+      name: Letterboxd Corner
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Corner.png
     plex_all: true
     filters:
       has_dolby_vision: true
