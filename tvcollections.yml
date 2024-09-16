@@ -1,6 +1,6 @@
 ---
 collections:
-  Emmy Winners:
+  Emmy Outstanding Series Winners:
     sort_title: "!130_Emmys"
     imdb_list:
       list_id: ls542543458
@@ -25,3 +25,12 @@ collections:
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular TV shows in the past week on JerryFlix.
+
+  2024 Emmy Winners:
+    sort_title: "!00_Emmys"
+    imdb_list:
+      list_id: ls542736509
+      limit: 20
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/Emmys.jpg
+    url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.png
+    smart_label: release.desc
