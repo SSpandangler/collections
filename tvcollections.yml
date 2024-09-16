@@ -31,6 +31,6 @@ collections:
     imdb_list:
       list_id: ls542736509
       limit: 20
-    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/Emmys.jpg
+    url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/24Emmy.png
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/emmys-background.png
     smart_label: release.desc
