@@ -11,6 +11,8 @@ overlays:
       suppress_overlays:
         - Cannes
         - Globe
+        - Razzie
+        - Sundance
         - IMDB-Top-250
         - Letterboxd Corner
       letterboxd_list: https://letterboxd.com/sspandangler/list/oscars-best-picture-winners/
@@ -21,6 +23,8 @@ overlays:
     overlay:
       suppress_overlays:
         - Globe
+        - Razzie
+        - Sundance
         - IMDB-Top-250
         - Letterboxd Corner
       letterboxd_list: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
@@ -30,14 +34,39 @@ overlays:
   Globe:
     overlay:
       suppress_overlays:
+        - Razzie
+        - Sundance
         - IMDB-Top-250
         - Letterboxd Corner
-      letterboxd_list: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
+      letterboxd_list: https://letterboxd.com/sspandangler/list/golden-globes-best-picture-winners/
       name: Globe
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Cannes%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Golden%20Globe%20Corner.png
     sync_mode: sync 
+  Razzie:
+    overlay:
+      suppress_overlays:
+        - Sundance
+        - IMDB-Top-250
+        - Letterboxd Corner
+      letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
+      name: Razzie
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Razzie%20Corner.png
+    sync_mode: sync 
+  Sundance:
+    overlay:
+      suppress_overlays:
+        - IMDB-Top-250
+        - Letterboxd Corner
+      letterboxd_list: https://letterboxd.com/sspandangler/list/sundance-grand-jury-winners/
+      name: Sundance
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Sundance%20Corner.png
+    sync_mode: sync
+
 
   Letterboxd:
     overlay:
+      letterboxd_list: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
+      tmdb_collection: https://www.themoviedb.org/collection/504490
       name: Letterboxd Corner
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Corner.png
+    sync_mode: sync
