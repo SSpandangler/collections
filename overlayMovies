@@ -2,27 +2,42 @@ overlays:
   IMDB-Top-250:
     imdb_chart: top_movies
     overlay:
+      suppress_overlays:
+        - Letterboxd Corner
       name: IMDB-Top-250
-      default: ribbon/yellow/imdb.png
-overlays:
-  4K:
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Corner.png
+  Oscars:
     overlay:
-      name: IMDb Top 250
-      url: 
-    plex_search:
-      all:
-        resolution: 4K
-  HDR:
+      suppress_overlays:
+        - Cannes
+        - Globe
+        - IMDB-Top-250
+        - Letterboxd Corner
+      letterboxd_list: https://letterboxd.com/sspandangler/list/oscars-best-picture-winners/
+      name: Oscar
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Oscar%20Corner.png
+    sync_mode: sync
+  Cannes:
     overlay:
-      name: HDR
-      default: HDR
-    plex_search:
-      all:
-        hdr: true
+      suppress_overlays:
+        - Globe
+        - IMDB-Top-250
+        - Letterboxd Corner
+      letterboxd_list: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
+      name: Cannes
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Cannes%20Corner.png
+    sync_mode: sync  
+  Globe:
+    overlay:
+      suppress_overlays:
+        - IMDB-Top-250
+        - Letterboxd Corner
+      letterboxd_list: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
+      name: Globe
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Cannes%20Corner.png
+    sync_mode: sync 
+
   Letterboxd:
     overlay:
       name: Letterboxd Corner
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Corner.png
-    plex_all: true
-    filters:
-      has_dolby_vision: true
