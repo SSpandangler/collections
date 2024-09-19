@@ -20,8 +20,6 @@ overlays:
         - Letterboxd Corner
       name: Sundance
       url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Sundance%20Corner.png
-    sync_mode: sync
-      url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Corner.png
     sync_mode: sync  
   Razzie:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
