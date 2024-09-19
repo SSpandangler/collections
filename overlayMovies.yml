@@ -61,8 +61,6 @@ overlays:
       name: Sundance
       url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Sundance%20Corner.png
     sync_mode: sync
-
-
   Letterboxd:
     overlay:
       letterboxd_list: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
