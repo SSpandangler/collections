@@ -12,6 +12,8 @@ overlays:
       suppress_overlays:
         - Letterboxd Corner
       name: IMDB-Top-250
+      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/IMDb%20Corner.png
+    sync_mode: sync
   Sundance:
     letterboxd_list: https://letterboxd.com/sspandangler/list/sundance-grand-jury-winners/
     overlay:
