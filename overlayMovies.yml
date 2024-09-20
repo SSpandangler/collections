@@ -26,18 +26,13 @@ overlays:
   Razzie:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
     overlay:
-      suppress_overlays:
-        - Sundance
-        - IMDB-Top-250
-        - Letterboxd Corner
-      name: Razzie
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Razzie%20Corner.png
+    name: Razzie
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Razzie%20Sticker%20Peel.png
     sync_mode: sync 
   Globe:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-globes-best-picture-winners/
     overlay:
       suppress_overlays:
-        - Razzie
         - Sundance
         - IMDB-Top-250
         - Letterboxd Corner
@@ -49,7 +44,6 @@ overlays:
     overlay:
       suppress_overlays:
         - Globe
-        - Razzie
         - Sundance
         - IMDB-Top-250
         - Letterboxd Corner
@@ -62,7 +56,6 @@ overlays:
       suppress_overlays:
         - Cannes
         - Globe
-        - Razzie
         - Sundance
         - IMDB-Top-250
         - Letterboxd Corner
