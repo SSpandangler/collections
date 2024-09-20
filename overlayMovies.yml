@@ -4,7 +4,7 @@ overlays:
     tmdb_collection: https://www.themoviedb.org/collection/504490
     overlay:
       name: Letterboxd Corner
-      url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Letterboxd%20Sticker.png
     sync_mode: sync
   IMDB-Top-250:
     imdb_chart: top_movies
@@ -12,7 +12,7 @@ overlays:
       suppress_overlays:
         - Letterboxd Corner
       name: IMDB-Top-250
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/IMDb%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/IMDb%20Sticker.png
     sync_mode: sync
   Sundance:
     letterboxd_list: https://letterboxd.com/sspandangler/list/sundance-grand-jury-winners/
@@ -21,7 +21,7 @@ overlays:
         - IMDB-Top-250
         - Letterboxd Corner
       name: Sundance
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Sundance%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Sundance%20Sticker.png
     sync_mode: sync  
   Razzie:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
@@ -37,7 +37,7 @@ overlays:
         - IMDB-Top-250
         - Letterboxd Corner
       name: Globe
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Golden%20Globe%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Globe%20Sticker.png
     sync_mode: sync 
   Cannes:
     letterboxd_list: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
@@ -48,7 +48,7 @@ overlays:
         - IMDB-Top-250
         - Letterboxd Corner
       name: Cannes
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Cannes%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Cannes%20Sticker.png
     sync_mode: sync  
   Oscars:
     letterboxd_list: https://letterboxd.com/sspandangler/list/oscars-best-picture-winners/
@@ -60,5 +60,5 @@ overlays:
         - IMDB-Top-250
         - Letterboxd Corner
       name: Oscar
-      url: https://raw.githubusercontent.com/SSpandangler/test/refs/heads/main/Oscar%20Corner.png
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Oscar%20Sticker.png
     sync_mode: sync  
