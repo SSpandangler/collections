@@ -1,6 +1,6 @@
 overlays:
   IMDB-Top-250:
-    imdb_chart: top_movies
+    imdb_chart: top_shows
     overlay:
       name: IMDB-Top-250
       url: https://raw.githubusercontent.com/SSpandangler/test/main/IMDb%20Sticker.png
