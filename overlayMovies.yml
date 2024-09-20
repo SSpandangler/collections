@@ -26,8 +26,8 @@ overlays:
   Razzie:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
     overlay:
-    name: Razzie
-    url: https://raw.githubusercontent.com/SSpandangler/test/main/Razzie%20Sticker%20Peel.png
+      name: Razzie
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Razzie%20Sticker%20Peel.png
     sync_mode: sync 
   Globe:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-globes-best-picture-winners/
