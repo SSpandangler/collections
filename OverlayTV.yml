@@ -1,1 +1,14 @@
-
+overlays:
+  IMDB-Top-250:
+    imdb_chart: top_movies
+    overlay:
+      name: IMDB-Top-250
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/IMDb%20Sticker.png
+    sync_mode: sync
+  Emmy:
+    imdb_list:
+      list_id: ls542543458
+    overlay:
+      name: Emmy
+      url: https://raw.githubusercontent.com/SSpandangler/test/main/Emmy%20Sticker.png
+    sync_mode: sync  
