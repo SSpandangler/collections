@@ -25,7 +25,35 @@ collections:
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular TV shows in the past week on JerryFlix.
-
+  Latest Episodes:
+    item_label: New Episodes
+    smart_filter:
+      sort_by: episode_added.desc
+      all:
+        episode_added: 92
+        episode_air_date: 365
+      limit: 250
+    summary: New episodes of your most favourite shows!
+    visible_library: true
+    visible_home: true
+    visible_shared: true
+    sort_title: "!008_Latest_Episodes"
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/New_TV_Show_Releases.jpg
+  New to JerryFlix:
+    smart_filter:
+      sort_by: release.desc
+      all:
+        episode_added: 30
+        any:
+          episode_air_date.not: 365
+          label.not: New Release 
+      limit: 250
+    summary: Hey this show might not exactly be new to everyone, but sure as hell have not seen it around these parts before.......
+    visible_library: true
+    visible_home: true
+    visible_shared: true
+    sort_title: "!009_New_To_Jerryflix"
+    url_poster: https://raw.githubusercontent.com/s0len/meta-manager-config/main/posters/new-releases/Old_Shows_Just_Added.jpg
   2024 Emmy Winners:
     sort_title: "!00_Emmys"
     imdb_list:
