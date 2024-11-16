@@ -26,6 +26,10 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/573693
     url_poster: https://theposterdb.com/api/assets/393254/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/5iidzov8DrsSyZdefeo7jBLDNUW.jpg
+  Avatar Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/87096
+    url_poster: https://image.tmdb.org/t/p/original/AqUEKvthVOsQ57qrU6ccSsv77r.jpg
+    url_background: https://image.tmdb.org/t/p/original/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg
   Avengers Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/86311
     url_poster: https://theposterdb.com/api/assets/431972/view?performed_by=SSpandangler
