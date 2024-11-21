@@ -548,3 +548,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/85473
     url_poster: https://theposterdb.com/api/assets/295911/view?performed_by=SSpandangler
     url_background: https://media.themoviedb.org/t/p/w1000_and_h563_face/2ZLIahfcDN8HtFptOUmbcFg4pEm.jpg
+  Futurama Collection:
+    sort_title: Futurama Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/13800
+    url_poster: https://image.tmdb.org/t/p/original/eqwIMGQ03DEEtni1R88sQn9DbAT.jpg
+    url_background: https://image.tmdb.org/t/p/original/tk7nGopHcIdGSMwuUIV7wC8Ibht.jpg
