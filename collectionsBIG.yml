@@ -153,6 +153,7 @@ collections:
     tautulli_watched:
       list_days: 7
       list_size: 10
+      remove_existing: true
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular Movies in the past week on JerryFlix.
