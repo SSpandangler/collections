@@ -137,6 +137,10 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/618529
     url_poster: https://theposterdb.com/api/assets/431968/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/7gHpxMRnrLvx3BGkmelB11pNrG6.jpg
+  Dune Collection:
+    tmdb_collection_details: https://www.themoviedb.org/collection/726871
+    url_poster: https://theposterdb.com/api/assets/356988/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/ygVSGv86R0BTOKJIb8RQ1sFxs4q.jpg
   Fantastic Beasts Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/435259
     url_poster: https://theposterdb.com/api/assets/239909/view?performed_by=SSpandangler
