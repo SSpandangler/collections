@@ -563,3 +563,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/529
     url_poster: https://image.tmdb.org/t/p/original/A8cQotoHR9eHZvRmSuuwTAhJUCB.jpg
     url_background: https://image.tmdb.org/t/p/original/zFjNVIdhOh8KlJESKXfWXeeQSf6.jpg
+  Gladiator Collection:
+    sort_title: Gladiator Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/1069584
+    url_poster: https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg
+    url_background: https://image.tmdb.org/t/p/original/5TT0aN864ynfWO1iEnET4RRyVBi.jpg
