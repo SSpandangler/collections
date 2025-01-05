@@ -568,3 +568,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/1069584
     url_poster: https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg
     url_background: https://image.tmdb.org/t/p/original/5TT0aN864ynfWO1iEnET4RRyVBi.jpg
+  Hustler Collection:
+    sort_title: Hustler Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/387219
+    url_poster: https://theposterdb.com/api/assets/132814/view
+    url_background: https://image.tmdb.org/t/p/original/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg
