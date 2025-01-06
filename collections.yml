@@ -559,8 +559,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/tk7nGopHcIdGSMwuUIV7wC8Ibht.jpg
   Wallace & Gromit Collection:
     sort_title: Wallace & Gromit Collection
-    imdb_id: tt0312004
-    imdb_id: tt17163970
+    imdb_id: tt0312004, tt17163970
     tmdb_collection_details: https://www.themoviedb.org/collection/529
     url_poster: https://image.tmdb.org/t/p/original/A8cQotoHR9eHZvRmSuuwTAhJUCB.jpg
     url_background: https://image.tmdb.org/t/p/original/zFjNVIdhOh8KlJESKXfWXeeQSf6.jpg
