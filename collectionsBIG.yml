@@ -148,14 +148,14 @@ collections:
     smart_label: release.desc
   JerryFlix Top Movies:
     sync_mode: sync
-    smart_label: plays.desc
+    collection_order: custom
     sort_title: "!00_JerryFlix Top"
     tautulli_watched:
       list_days: 7
       list_size: 10
-    template_variables:
-      limit: 10
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/top%2010%20poster.png
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular Movies in the past week on JerryFlix.
+    smart_label: release.desc
+
 
