@@ -156,7 +156,7 @@ collections:
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular Movies in the past week on JerryFlix.
     smart_label: viewed.desc
-2025 Golden Globes Winners:
+  2025 Golden Globes Winners:
     letterboxd_list_details: https://letterboxd.com/sspandangler/list/2025-golden-globe-winners/
     sync_mode: sync
     sort_title: "!000_2025 Golden Globes"
