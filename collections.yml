@@ -241,6 +241,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/o4ECxoNVP5HahPFf3mzkRG63OBK.jpg
   James Bond Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/645
+    imdb_id: tt0061452
     url_poster: https://theposterdb.com/api/assets/218155/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg
   Jaws Collection:
