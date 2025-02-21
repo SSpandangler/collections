@@ -579,3 +579,9 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/930409
     url_poster: https://image.tmdb.org/t/p/original/j9OrzPaEN7y0TtGAEFmhrsAwfy7.jpg
     url_background: https://image.tmdb.org/t/p/original/iMlbc9rkHfcSkXjeOkCbKxtgAem.jpg
+  Hellboy Collection:
+    sort_title: Hellboy Collection
+    imdb_id: tt2274648
+    tmdb_collection_details: https://www.themoviedb.org/collection/17235
+    url_poster: https://theposterdb.com/api/assets/11245/view?performed_by=SSpandangler
+    url_background: https://image.tmdb.org/t/p/original/qpFCHvjPCEGDW6RPBCdV9iq1yI4.jpg
