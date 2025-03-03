@@ -160,7 +160,7 @@ collections:
     letterboxd_list_details: https://letterboxd.com/gauvltcm/list/oscar-winners-2025/
     sync_mode: sync
     sort_title: "!000_2025 Academy Wins"
-    url_poster: https://github.com/SSpandangler/oscar/blob/main/Oscar%20Noms.png?raw=true
-    url_background: https://pbs.twimg.com/media/Gh-3fdtXUAAR3hl?format=jpg&name=large
+    url_poster: https://pbs.twimg.com/media/GlFjTaCaEAAr9Wb?format=jpg&name=large
+    url_background: https://deadline.com/wp-content/uploads/2025/03/GettyImages-2202956837.jpg?w=681&h=383&crop=1
     smart_label: release.desc
 
