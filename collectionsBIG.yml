@@ -156,17 +156,10 @@ collections:
     url_background: https://raw.githubusercontent.com/SSpandangler/test/main/Jerryflix%20Background.jpg
     summary: A painstakingly and agonizingly handpicked selection of the most popular Movies in the past week on JerryFlix.
     smart_label: viewed.desc
-  2025 Golden Globes Winners:
-    letterboxd_list_details: https://letterboxd.com/sspandangler/list/2025-golden-globe-winners/
+  2025 Academy Award Winners:
+    letterboxd_list_details: https://letterboxd.com/gauvltcm/list/oscar-winners-2025/
     sync_mode: sync
-    sort_title: "!000_2025 Golden Globes"
-    url_poster: https://github.com/SSpandangler/season/blob/306733424e15f612aeef2e6c5f9794a3d8afc35f/Jeremy%20Globe.png
-    url_background: https://videos.skynews.com/image/v1/static/6058004172001/375fef4d-0f8f-4d2d-a745-2d977b171a3e/3b32372e-4ae8-4206-9ef3-bdf54bf211a3/1280x720/match/image.jpg
-    smart_label: release.desc
-  2025 Academy Award Nominees:
-    letterboxd_list_details: https://letterboxd.com/oscars/list/the-97th-academy-award-feature-film-nominees/
-    sync_mode: sync
-    sort_title: "!000_2025 Academy Noms"
+    sort_title: "!000_2025 Academy Wins"
     url_poster: https://github.com/SSpandangler/oscar/blob/main/Oscar%20Noms.png?raw=true
     url_background: https://pbs.twimg.com/media/Gh-3fdtXUAAR3hl?format=jpg&name=large
     smart_label: release.desc
