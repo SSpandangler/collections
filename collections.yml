@@ -585,3 +585,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/17235-hellboy-collection
     url_poster: https://theposterdb.com/api/assets/11245/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/qpFCHvjPCEGDW6RPBCdV9iq1yI4.jpg
+  Paddington Collection:
+    sort_title: Paddington Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/488924-paddington-collection
+    url_poster: https://image.tmdb.org/t/p/original/wiosDmL20Nk1ijqZYHQZkvsZjbA.jpg
+    url_background: https://image.tmdb.org/t/p/original/cpmSe7SerOiI1dRgQG328OaHNBl.jpg
