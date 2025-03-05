@@ -24,8 +24,9 @@ overlays:
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Sundance%20Sticker.png
     sync_mode: sync  
   Razzie:
-    letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
-    overlay:
+    imdb_list: 
+      list_id: ls591837603
+      overlay:
       name: Razzie
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Razzie%20Sticker%20Peel.png
     sync_mode: sync 
