@@ -133,8 +133,8 @@ collections:
     url_background: https://goldenglobes.com/wp-content/themes/pmc-golden-globes/dist/fdedf645468628839092.jpg
     smart_label: release.desc
   Golden Raspberry Worst Picture “Winners”:
-  imdb_list: 
-      list_id: ls591837603
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
+    sync_mode: sync
     sort_title: "!130_Golden Raspberry Worst Picture"
     url_poster: https://raw.githubusercontent.com/SSpandangler/test/main/Razzie%20Poster.png
     url_background: https://github.com/SSpandangler/test/blob/main/Razzie%20Background.png?raw=true
