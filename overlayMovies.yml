@@ -1,3 +1,4 @@
+---
 overlays:
   Letterboxd:
     letterboxd_list: https://letterboxd.com/dave/list/official-top-250-narrative-feature-films/
@@ -22,13 +23,13 @@ overlays:
         - Letterboxd Corner
       name: Sundance
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Sundance%20Sticker.png
-    sync_mode: sync  
+    sync_mode: sync
   Razzie:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-raspberry-worst-picture-winners/
-      overlay:
+    overlay:
       name: Razzie
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Razzie%20Sticker%20Peel.png
-    sync_mode: sync 
+    sync_mode: sync
   Globe:
     letterboxd_list: https://letterboxd.com/sspandangler/list/golden-globes-best-picture-winners/
     overlay:
@@ -38,7 +39,7 @@ overlays:
         - Letterboxd Corner
       name: Globe
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Globe%20Sticker.png
-    sync_mode: sync 
+    sync_mode: sync
   Cannes:
     letterboxd_list: https://letterboxd.com/sspandangler/list/festival-de-cannes-palme-dor-winners/
     overlay:
@@ -49,7 +50,7 @@ overlays:
         - Letterboxd Corner
       name: Cannes
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Cannes%20Sticker.png
-    sync_mode: sync  
+    sync_mode: sync
   Oscars:
     letterboxd_list: https://letterboxd.com/sspandangler/list/oscars-best-picture-winners/
     overlay:
@@ -61,4 +62,4 @@ overlays:
         - Letterboxd Corner
       name: Oscar
       url: https://raw.githubusercontent.com/SSpandangler/test/main/Oscar%20Sticker.png
-    sync_mode: sync  
+    sync_mode: sync
