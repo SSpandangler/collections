@@ -87,6 +87,7 @@ collections:
     url_background: https://image.tmdb.org/t/p/original/itL2G9nPEaB6VD7ShsMSVqM1bSO.jpg
   Captain America Collection:
     tmdb_collection_details: https://www.themoviedb.org/collection/131295
+    tmdb_movie: 822119
     url_poster: https://theposterdb.com/api/assets/431966/view?performed_by=SSpandangler
     url_background: https://image.tmdb.org/t/p/original/7kVucUYqz8fZkOmFtA8opDwJFXM.jpg
   Captain Marvel Collection:
