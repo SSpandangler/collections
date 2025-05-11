@@ -591,3 +591,29 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/488924-paddington-collection
     url_poster: https://image.tmdb.org/t/p/original/wiosDmL20Nk1ijqZYHQZkvsZjbA.jpg
     url_background: https://image.tmdb.org/t/p/original/cpmSe7SerOiI1dRgQG328OaHNBl.jpg
+  Cinderella Story Collection:
+    sort_title: Cinderella Story Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/437451-cinderella-story-collection
+    url_poster: https://image.tmdb.org/t/p/original/8wE9eB2Jz4tFVVDNpRRPbmyJExy.jpg
+    url_background: https://image.tmdb.org/t/p/original/iVqkNuy2jpcurdk2ZH2iAexJTo6.jpg
+  Bridget Jones Collection:
+    sort_title: Bridget Jones Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/8936-bridget-jones-collection
+    url_poster: https://image.tmdb.org/t/p/original/9VUsbuTMFoRgUgK0z3pEWmkujFe.jpg
+    url_background: https://image.tmdb.org/t/p/original/9WuJ3iHkCEm5jtxIRwRAp45QZjL.jpg
+  Bring It On Collection:
+    sort_title: Bring It On Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/430186-bring-it-on-collection
+    url_poster: https://image.tmdb.org/t/p/original/7aTnDp8CGIsXwz1W1sdP9C6qDFQ.jpg
+    url_background: https://image.tmdb.org/t/p/original/aB7D2LNDc8BlXXXzsEW2tSWbfsW.jpg
+  A Simple Favor Collection:
+    sort_title: Simple Favor Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/975201-a-simple-favor-collection
+    url_poster: https://image.tmdb.org/t/p/original/hksY1ijifFf9BeiJiEGA6lOfFfz.jpg
+    url_background: https://image.tmdb.org/t/p/original/qxRxbkyQNyz6y7S2Wp8jTTnJsZB.jpg
+  Pokémon Collection:
+    sort_title: Pokémon Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/34055
+    url_poster: https://image.tmdb.org/t/p/original/oUdOt0VbJQnkLwOiQLPJLxH8oCA.jpg
+    url_background: https://image.tmdb.org/t/p/original/keRetNEszYbXbO0WKjTzxYTPdAi.jpg
+    
