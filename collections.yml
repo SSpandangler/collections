@@ -616,4 +616,9 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/34055
     url_poster: https://image.tmdb.org/t/p/original/oUdOt0VbJQnkLwOiQLPJLxH8oCA.jpg
     url_background: https://image.tmdb.org/t/p/original/keRetNEszYbXbO0WKjTzxYTPdAi.jpg
-    
+  Ice Age Collection:
+    sort_title: Ice Age Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/8354-ice-age-collection
+    url_poster: https://image.tmdb.org/t/p/original/xF3SMXZbPUrjpZ7GbF2JiB7pOxC.jpg
+    url_background: https://image.tmdb.org/t/p/original/flUk9dQqXemWUE4JaZoHKeGkS6g.jpg
+
