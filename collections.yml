@@ -621,4 +621,9 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/8354-ice-age-collection
     url_poster: https://image.tmdb.org/t/p/original/xF3SMXZbPUrjpZ7GbF2JiB7pOxC.jpg
     url_background: https://image.tmdb.org/t/p/original/flUk9dQqXemWUE4JaZoHKeGkS6g.jpg
+  The Inbetweeners Collection:
+    sort_title: Inbetweeners Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/279959-the-inbetweeners-collection
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qIm7z3iSjoeCEGx3XVWeLC3MDyN.jpg
+    url_background: https://image.tmdb.org/t/p/original/7yim7pBz0PfFghRNft7Qy4MSp62.jpg
 
