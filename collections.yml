@@ -626,4 +626,9 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/279959-the-inbetweeners-collection
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qIm7z3iSjoeCEGx3XVWeLC3MDyN.jpg
     url_background: https://image.tmdb.org/t/p/original/7yim7pBz0PfFghRNft7Qy4MSp62.jpg
+  Pirates of the Caribbean Collection:
+    sort_title: Pirates of the Caribbean Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/295-pirates-of-the-caribbean-collection
+    url_poster: https://image.tmdb.org/t/p/original/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg
+    url_background: https://image.tmdb.org/t/p/original/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg
 
