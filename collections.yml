@@ -631,4 +631,13 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/295-pirates-of-the-caribbean-collection
     url_poster: https://image.tmdb.org/t/p/original/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg
     url_background: https://image.tmdb.org/t/p/original/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg
-
+  Now You See Me Collection :
+    sort_title: Now You See Me Collection 
+    tmdb_collection_details: https://www.themoviedb.org/collection/382685-now-you-see-me-collection
+    url_poster: https://image.tmdb.org/t/p/original/fDHp90bfqIxlkozg7nTCxgUEDVr.jpg
+    url_background: https://image.tmdb.org/t/p/original/7keFXzi5i7zMD1t1uAEBq3IYWKv.jpg
+ Rebuild of Evangelion Collection :
+    sort_title: Rebuild of Evangelion Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/210303-evangerion-shin-gekijoban
+    url_poster: https://image.tmdb.org/t/p/original/ma2MjOMz5V8c8D6kV3ReZbk7P3a.jpg
+    url_background: https://image.tmdb.org/t/p/original/ntRPNixK8OJt0Lt5kKymbTUtQx5.jpg
