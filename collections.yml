@@ -641,3 +641,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/210303-evangerion-shin-gekijoban
     url_poster: https://image.tmdb.org/t/p/original/ma2MjOMz5V8c8D6kV3ReZbk7P3a.jpg
     url_background: https://image.tmdb.org/t/p/original/ntRPNixK8OJt0Lt5kKymbTUtQx5.jpg
+ Ocean's Collection :
+    sort_title: Ocean's Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/304-ocean-s-collection
+    url_poster: https://image.tmdb.org/t/p/original/AfnoEKS3dI0KGaSkyVNce6GpMaG.jpg
+    url_background: https://image.tmdb.org/t/p/original/7WUSrq8DqSkVgv1vmhBvav5bPoB.jpg
