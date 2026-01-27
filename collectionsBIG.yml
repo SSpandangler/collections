@@ -160,8 +160,9 @@ collections:
     letterboxd_list_details: https://letterboxd.com/crew/list/every-film-nominated-for-a-2026-academy-award/
     sync_mode: sync
     sort_title: "!000_2026 Academy Noms"
-    url_poster: https://pbs.twimg.com/media/GlFjTaCaEAAr9Wb?format=jpg&name=large
-    url_background: https://deadline.com/wp-content/uploads/2025/03/GettyImages-2202956837.jpg?w=681&h=383&crop=1
+    url_poster: https://raw.githubusercontent.com/SSpandangler/oscar/refs/heads/main/Oscar%20Noms.png
+    url_background: https://ca-times.brightspotcdn.com/dims4/default/80296a6/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F1a%2Fcb3f83db4da9a1cce37f19daeea7%2Foscarnominations2026rgbfinal7jpg.jpg
     smart_label: release.desc
+
 
 
