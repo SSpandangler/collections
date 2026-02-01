@@ -656,3 +656,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/8650-transformers-collection
     url_poster: https://image.tmdb.org/t/p/original/8a0SgPMKzWIXpIfdSHbyTiz8jxD.jpg
     url_background: https://image.tmdb.org/t/p/original/oci1q3hXFVQFSNpXxUb2jxIGHQf.jpg
+  Police Academy Collection :
+    sort_title: Police Academy Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/9338-police-academy-collection
+    url_poster: https://image.tmdb.org/t/p/original/5yPLOXhK9BrVfnrLpOjouxqqrwt.jpg
+    url_background: https://image.tmdb.org/t/p/original/4fjmNFs31JPfa4rYtE3gNDspGlk.jpg
