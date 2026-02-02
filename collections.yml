@@ -661,3 +661,8 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/9338-police-academy-collection
     url_poster: https://image.tmdb.org/t/p/original/5yPLOXhK9BrVfnrLpOjouxqqrwt.jpg
     url_background: https://image.tmdb.org/t/p/original/4fjmNFs31JPfa4rYtE3gNDspGlk.jpg
+  Has Fallen Collection :
+    sort_title: Has Fallen Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
+    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
+    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
