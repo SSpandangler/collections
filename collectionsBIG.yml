@@ -163,6 +163,15 @@ collections:
     url_poster: https://raw.githubusercontent.com/SSpandangler/oscar/refs/heads/main/Oscar%20Noms.png
     url_background: https://ca-times.brightspotcdn.com/dims4/default/80296a6/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F1a%2Fcb3f83db4da9a1cce37f19daeea7%2Foscarnominations2026rgbfinal7jpg.jpg
     smart_label: release.desc
-
+  Muppets Collection:
+    letterboxd_list_details: https://letterboxd.com/sspandangler/list/muppets-movies/
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/13696/view
+    sort_title: "!040_Muppets Collection"
+    visible_library: false
+    visible_home: false
+    visible_shared: false
+    smart_label: release.asc
+    url_background: https://i.pinimg.com/736x/5f/f1/8f/5ff18f96413567d141702035874eb797.jpg
 
 
