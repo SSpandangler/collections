@@ -711,4 +711,15 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/1314623-the-devil-wears-prada-collection
     url_poster: https://image.tmdb.org/t/p/original/nlzKiU0L5Rt3eCsUrN6mDtynEQ9.jpg
     url_background: https://image.tmdb.org/t/p/original/yT1sMYfKT1JfxETlxSrmkKY7pFX.jpg
-
+  The Up Collection:
+    sort_title: Up Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/95051-the-up-collection
+    url_poster: https://image.tmdb.org/t/p/original/aPV1Ecrkl8VXJZrcIXHXUDQeH2H.jpg
+    url_background: https://image.tmdb.org/t/p/original/ayvfXaNjANcBknVtRuYaIFJqJDN.jpg
+  Film Club:
+    sort_title: Jerryflix Film Club
+    url_poster: https://192-168-0-69.jerrymclancy.direct.quickconnect.to:5001/synofoto/api/v2/p/Thumbnail/get?id=4938&cache_key=%224938_1787657168%22&type=%22unit%22&size=%22xl%22&SynoToken=SSzhuoULUdOAE
+    url_background: https://192-168-0-69.jerrymclancy.direct.quickconnect.to:5001/synofoto/api/v2/p/Thumbnail/get?id=1196&cache_key=%221196_1787655379%22&type=%22unit%22&size=%22xl%22&SynoToken=SSzhuoULUdOAE
+    smart_filter:
+      all:
+        label: Film Club
