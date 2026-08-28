@@ -631,38 +631,84 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/295-pirates-of-the-caribbean-collection
     url_poster: https://image.tmdb.org/t/p/original/zT5UKFhq9nk97VGlBbAxlAK8UFN.jpg
     url_background: https://image.tmdb.org/t/p/original/2xcffH1n4KGnPLEawLbSuJwaPwc.jpg
-  Now You See Me Collection :
+  Now You See Me Collection:
     sort_title: Now You See Me Collection 
     tmdb_collection_details: https://www.themoviedb.org/collection/382685-now-you-see-me-collection
     url_poster: https://image.tmdb.org/t/p/original/fDHp90bfqIxlkozg7nTCxgUEDVr.jpg
     url_background: https://image.tmdb.org/t/p/original/7keFXzi5i7zMD1t1uAEBq3IYWKv.jpg
-  Rebuild of Evangelion Collection :
+  Rebuild of Evangelion Collection:
     sort_title: Rebuild of Evangelion Collection
     tmdb_collection_details: https://www.themoviedb.org/collection/210303-evangerion-shin-gekijoban
     url_poster: https://image.tmdb.org/t/p/original/ma2MjOMz5V8c8D6kV3ReZbk7P3a.jpg
     url_background: https://image.tmdb.org/t/p/original/ntRPNixK8OJt0Lt5kKymbTUtQx5.jpg
-  Ocean's Collection :
+  Ocean's Collection:
     sort_title: Ocean's Collection
     tmdb_collection_details: https://www.themoviedb.org/collection/304-ocean-s-collection
     url_poster: https://image.tmdb.org/t/p/original/AfnoEKS3dI0KGaSkyVNce6GpMaG.jpg
     url_background: https://image.tmdb.org/t/p/original/7WUSrq8DqSkVgv1vmhBvav5bPoB.jpg
-  Batman Collection :
+  Batman Collection:
     sort_title: Batman Collection
     tmdb_collection_details: https://www.themoviedb.org/collection/120794-batman-collection
     url_poster: https://image.tmdb.org/t/p/original/31SwN5tZuJNsWTLx6DNNyQSAXdx.jpg
     url_background: https://image.tmdb.org/t/p/original/9SpZvXLZDGGtFqVDByGqSGI64Kw.jpg
-  Transformers Collection :
+  Transformers Collection:
     sort_title: Transformers Collection
     tmdb_collection_details: https://www.themoviedb.org/collection/8650-transformers-collection
     url_poster: https://image.tmdb.org/t/p/original/8a0SgPMKzWIXpIfdSHbyTiz8jxD.jpg
     url_background: https://image.tmdb.org/t/p/original/oci1q3hXFVQFSNpXxUb2jxIGHQf.jpg
-  Police Academy Collection :
+  Police Academy Collection:
     sort_title: Police Academy Collection
     tmdb_collection_details: https://www.themoviedb.org/collection/9338-police-academy-collection
     url_poster: https://image.tmdb.org/t/p/original/5yPLOXhK9BrVfnrLpOjouxqqrwt.jpg
     url_background: https://image.tmdb.org/t/p/original/4fjmNFs31JPfa4rYtE3gNDspGlk.jpg
-  Has Fallen Collection :
+  Has Fallen Collection:
     sort_title: Has Fallen Collection
     tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
     url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
     url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
+  Zootropolis Collection:
+    sort_title: Zootropolis Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/1084247-zootopia-collection
+    url_poster: https://image.tmdb.org/t/p/original/9Cm0kU0TAcJ6MoWYKWOl2LzN70I.jpg
+    url_background: https://image.tmdb.org/t/p/original/kuQ4usjmvBeJJpILfewhrRqfeTl.jpg
+  Ready or Not Collection:
+    sort_title: Ready or Not Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/1267164-ready-or-not-collection
+    url_poster: https://image.tmdb.org/t/p/original/i0MDcTw6YdY1YWKwe4p6qY8jPbX.jpg
+    url_background: https://image.tmdb.org/t/p/original/5webUKxijJEvolYGWXzM2zw5f9T.jpg
+  Scary Movie Collection:
+    sort_title: Scary Movie Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/4246-scary-movie-collection
+    url_poster: https://image.tmdb.org/t/p/original/8ds74cRhyAza3WcDVT8rZycwSC9.jpg
+    url_background: https://image.tmdb.org/t/p/original/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg
+  Father of the Bride Collection:
+    sort_title: Father of the Bride Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/96871-father-of-the-bride-steve-martin-collection
+    url_poster: https://image.tmdb.org/t/p/original/nts4iOmNnq7GNicycMJ9pSAn204.jpg
+    url_background: https://image.tmdb.org/t/p/original/7qwE57OVZmMJChBpLEbJEmzUydk.jpg
+  Elizabeth Collection:
+    sort_title: Elizabeth Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/100286-elizabeth-collection
+    url_poster: https://image.tmdb.org/t/p/original/2XxIeKB6g21GvPmixWyyc9ZlLnR.jpg
+    url_background: https://image.tmdb.org/t/p/original/3YiTOxGX5KZO6P3eg41P50QrRhQ.jpg
+  Has Fallen Collection:
+    sort_title: Has Fallen Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
+    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
+    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
+  Has Fallen Collection:
+    sort_title: Has Fallen Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
+    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
+    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
+  Has Fallen Collection:
+    sort_title: Has Fallen Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
+    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
+    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
+  Has Fallen Collection:
+    sort_title: Has Fallen Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
+    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
+    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
+
