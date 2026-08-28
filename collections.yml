@@ -691,24 +691,24 @@ collections:
     tmdb_collection_details: https://www.themoviedb.org/collection/100286-elizabeth-collection
     url_poster: https://image.tmdb.org/t/p/original/2XxIeKB6g21GvPmixWyyc9ZlLnR.jpg
     url_background: https://image.tmdb.org/t/p/original/3YiTOxGX5KZO6P3eg41P50QrRhQ.jpg
-  Has Fallen Collection:
-    sort_title: Has Fallen Collection
-    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
-    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
-    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
-  Has Fallen Collection:
-    sort_title: Has Fallen Collection
-    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
-    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
-    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
-  Has Fallen Collection:
-    sort_title: Has Fallen Collection
-    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
-    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
-    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
-  Has Fallen Collection:
-    sort_title: Has Fallen Collection
-    tmdb_collection_details: https://www.themoviedb.org/collection/386534-has-fallen-collection
-    url_poster: https://image.tmdb.org/t/p/original/25gcpe1vwzl2VwaAq5rgzHePoxo.jpg
-    url_background: https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg
+  The Legend of Hei Collection:
+    sort_title: Legend of Hei Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/1444577
+    url_poster: https://image.tmdb.org/t/p/original/iyYCrdcQB1Sq4xBvdS1A8qAYTn7.jpg
+    url_background: https://image.tmdb.org/t/p/original/3Xd6oe4dDGuml5DiDpJLRDRD4By.jpg
+  Mortal Kombat (Reboot) Collection:
+    sort_title: Mortal Kombat (Reboot) Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/931431-mortal-kombat-reboot-collection
+    url_poster: https://image.tmdb.org/t/p/original/fzMBv3Bu8sWdsCQJbtF0XhY4Q2X.jpg
+    url_background: https://image.tmdb.org/t/p/original/mI8xgtdaKDwnfaZ6CahOaYKdfSU.jpg
+  Sicario Collection:
+    sort_title: Sicario Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/496796-sicario-collection
+    url_poster: https://image.tmdb.org/t/p/original/4C9c6c9j9ct4hQkiO9xOTIx7edc.jpg
+    url_background: https://image.tmdb.org/t/p/original/duanXKpT4H1f4TmVgSZ8ZqDyJtt.jpg
+  The Devil Wears Prada Collection:
+    sort_title: Devil Wears Prada Collection
+    tmdb_collection_details: https://www.themoviedb.org/collection/1314623-the-devil-wears-prada-collection
+    url_poster: https://image.tmdb.org/t/p/original/nlzKiU0L5Rt3eCsUrN6mDtynEQ9.jpg
+    url_background: https://image.tmdb.org/t/p/original/yT1sMYfKT1JfxETlxSrmkKY7pFX.jpg
 
